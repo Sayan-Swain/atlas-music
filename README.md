@@ -2,6 +2,10 @@
 
 Open-source music player with YouTube integration. Stream music ad-free with high quality audio.
 
+## Download
+
+Get the Android APK here: https://atlas-music-free.netlify.app/
+
 ## Features
 
 - Stream music from YouTube without ads
