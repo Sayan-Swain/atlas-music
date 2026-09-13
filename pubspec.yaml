@@ -1,0 +1,43 @@
+name: atlas_music
+description: Open-source music player with YouTube integration.
+publish_to: 'none'
+version: 1.0.1+2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  just_audio: ^0.9.36
+  audio_session: ^0.1.18
+  youtube_explode_dart: 3.1.0
+  http: ^1.2.0
+  cached_network_image: ^3.3.1
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  uuid: ^4.2.1
+  intl: ^0.19.0
+  palette_generator: ^0.3.3+4
+  flutter_lyric: ^2.0.4+6
+  google_fonts: ^6.1.0
+  shimmer: ^3.0.0
+  image_picker: ^1.2.3
+  path_provider: ^2.1.6
+  just_audio_background: ^0.0.1-beta.17
+  audio_service: ^0.18.18
+
+dependency_overrides:
+  audio_service:
+    path: plugins/audio_service
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
