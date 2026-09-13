@@ -94,17 +94,6 @@ lib/
 3. **Quality:** Automatically selects highest bitrate audio stream available
 4. **Auto-Play:** When queue ends, fetches related videos and continues playing
 
-## Roadmap
-
-- [ ] Spotify playlist import via OAuth
-- [ ] User accounts with Firebase
-- [ ] Cloud sync for playlists
-- [ ] Lyrics display
-- [ ] Equalizer
-- [ ] Sleep timer
-- [ ] Crossfade between songs
-- [ ] Download for offline playback
-
 ## Contributing
 
 1. Fork the repository
