@@ -26,7 +26,6 @@ Key highlights:
 ## Table of Contents
 - [Download](#download)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
