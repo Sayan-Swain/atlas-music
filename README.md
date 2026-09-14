@@ -107,14 +107,6 @@ flutter build apk --release
 
 The release APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
-### Build iOS
-
-```bash
-flutter build ios --release
-```
-
-Open `ios/Runner.xcworkspace` in Xcode to archive and distribute.
-
 ## Project Structure
 
 ```
