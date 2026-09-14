@@ -41,17 +41,6 @@ Get the Android APK here: https://atlas-music-free.netlify.app/
 
 The APK is built in release mode with R8 obfuscation enabled. iOS build requires Xcode and a developer account.
 
-## Screenshots
-
-*Home with Quick Picks and Recently Played*
-<!-- Add screenshots: assets/screenshots/home.png -->
-
-*Player with synced lyrics*
-<!-- Add screenshots: assets/screenshots/player.png -->
-
-*Library with playlists and import*
-<!-- Add screenshots: assets/screenshots/library.png -->
-
 ## Features
 
 - **Ad-free YouTube audio streaming** with highest quality selection automatically
