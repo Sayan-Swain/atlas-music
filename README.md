@@ -2,11 +2,11 @@
 
 **Ad-free YouTube music player with smart recommendations, synced lyrics, and polished glass UI.**
 
-Atlas Music brings a modern, distraction-free listening experience to Android and iOS. Stream YouTube audio without ads, discover music with session-driven Quick Picks, and enjoy synchronized lyrics with a beautiful glassmorphism design.
+Atlas Music brings a modern, distraction-free listening experience to Android. iOS version is planned for a future release but is not ready yet. Stream YouTube audio without ads, discover music with session-driven Quick Picks, and enjoy synchronized lyrics with a beautiful glassmorphism design.
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue?style=for-the-badge)](https://github.com/Sayan-Swain/atlas-music)
+[![Platform](https://img.shields.io/badge/platform-Android-blue?style=for-the-badge)](https://github.com/Sayan-Swain/atlas-music)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Sayan-Swain/atlas-music)
 
 > Stream YouTube audio without ads, with session-driven Quick Picks, personalized recommendations, and synced lyrics.
@@ -38,7 +38,7 @@ Key highlights:
 
 Get the Android APK here: https://atlas-music-free.netlify.app/
 
-The APK is built in release mode with R8 obfuscation enabled. iOS build requires Xcode and a developer account.
+The APK is built in release mode with R8 obfuscation enabled. iOS build is not ready yet and will come in a later version. Currently not conforming for iOS.
 
 ## Features
 
@@ -78,8 +78,10 @@ The APK is built in release mode with R8 obfuscation enabled. iOS build requires
 ### Prerequisites
 
 - Flutter SDK 3.0+
-- Android Studio / Xcode
-- Android SDK and iOS simulator or physical device
+- Android Studio
+- Android SDK and physical device or emulator
+
+iOS support is planned for a future release and is not currently conforming.
 
 ### Installation
 
