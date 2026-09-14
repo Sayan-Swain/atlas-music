@@ -178,4 +178,4 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This app is for educational purposes. YouTube's Terms of Service may restrict direct audio extraction. Use responsibly.
+Atlas Music is an open-source project for educational and personal-use purposes. Atlas Music does not host or distribute the underlying media. YouTube content is accessed through third-party functionality, and users are responsible for complying with applicable laws and the terms of the services they use. YouTube's Terms of Service may restrict certain forms of automated access, extraction, or playback. The project is not affiliated with or endorsed by YouTube, Google, Spotify, or LRCLIB.
